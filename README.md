@@ -325,12 +325,15 @@ whereis app – نمایش مسیر بالقوه برنامه مورد نظر.
 
 which app – نمایش میسر برنامه app که به صورت پیش‌فرض اجرا می‌شود.
 
+sudo chown -R admin:admin /file   مالکیت فایل
+
+sudo chmod -R +777 admin:admin /file  تغییر سطح دسترسی
+
 * منبع دستورات: community.linuxmint.com/tutorial/view/244
 
 * منابع فارسی:
 
 https://sazmanhost.com/KB/379/%D9%85%D8%B1%D8%AC%D8%B9-%DA%A9%D8%A7%D9%85%D9%84-%D8%AF%D8%B3%D8%AA%D9%88%D8%B1%D8%A7%D8%AA-%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3-%E2%80%93-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C
-
 
 
 ساده‌ترین راه حمایت از ما کلیک کردن روی ستاره (⭐) بالای همین صفحه است.
