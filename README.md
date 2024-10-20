@@ -336,4 +336,45 @@ sudo chmod -R +777 admin:admin /file  تغییر سطح دسترسی
 https://sazmanhost.com/KB/379/%D9%85%D8%B1%D8%AC%D8%B9-%DA%A9%D8%A7%D9%85%D9%84-%D8%AF%D8%B3%D8%AA%D9%88%D8%B1%D8%A7%D8%AA-%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3-%E2%80%93-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C
 
 
+
+df -h
+
+top
+
+free -m
+
+last
+
+tmux
+
+clear
+
+ps
+
+netstat -tupln
+
+uptime
+
+ss -u & -t 7 -x
+
+du
+
+cls
+
+ll
+
+sudo chown -R admin : admin
+
+sudo chmod -R +777
+
+timedatectl
+
+netstate -ntlp
+
+telnet 127.0.0.1 9200
+
+
+
+sudo chmod -R +777
+
 ساده‌ترین راه حمایت از ما کلیک کردن روی ستاره (⭐) بالای همین صفحه است.
