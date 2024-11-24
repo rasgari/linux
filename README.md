@@ -371,6 +371,8 @@ timedatectl
 
 netstate -ntlp
 
+netstate -t
+
 telnet 127.0.0.1 9200
 
 ls -a
