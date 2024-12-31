@@ -9,5 +9,15 @@ systemctl disablee firewalld.service
 
 systemctl status docker (images)
 
+
 sudo fdisk -l
 
+
+sudo chown -R admin:admin docker/
+sudo chown -R admin:admin docker/*
+sudo chown -R 1001:1001 docker/
+sudo chown -R 1001:1001 docker/*
+
+
+sudo chmod -R admin:admin docker/
+sudo chmod -R admin:admin docker/*
