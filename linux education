@@ -1,0 +1,10 @@
+linux education:
+
+systemctl status firewalld.service
+systemctl start firewalld.service
+systemctl stop firewalld.service
+systemctl enable firewalld.service
+systemctl disablee firewalld.service
+
+
+systemctl status docker (images)
