@@ -8,3 +8,6 @@ systemctl disablee firewalld.service
 
 
 systemctl status docker (images)
+
+sudo fdisk -l
+
