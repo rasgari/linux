@@ -21,3 +21,13 @@ sudo chown -R 1001:1001 docker/*
 
 sudo chmod -R admin:admin docker/
 sudo chmod -R admin:admin docker/*
+
+
+=======================================================
+
+
+lsof
+
+lsmod
+
+blkid
