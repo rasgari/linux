@@ -9,3 +9,4 @@ command:
 - git log
 - git pull
 - git clone
+- git branch
