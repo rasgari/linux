@@ -25,6 +25,7 @@ sudo chmod -R admin:admin docker/*
 
 =======================================================
 
+find
 
 lsof
 
