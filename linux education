@@ -33,3 +33,6 @@ lsof
 lsmod
 
 blkid
+
+df -h 
+free -m
