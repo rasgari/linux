@@ -37,7 +37,20 @@ git pull
 git clone
 ```
 
+
 ```bash
-git branch
+git merge
+```
+
+```bash
+git reset
+```
+
+```bash
+git checkout
+```
+
+```bash
+git remote
 ```
 
