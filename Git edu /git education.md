@@ -1,7 +1,10 @@
 # git education
 
+ ## نصب گیت
+[ install git ](https://git-scm.com/docs/gitignore)
 
-[ gitignore ](http://gitignore.io/)
+## گیت ایگنور
+[ gitignore ](https://docs.gitignore.io/)
 
 
 command:
