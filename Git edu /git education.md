@@ -7,7 +7,8 @@
 [ gitignore ](https://docs.gitignore.io/)
 
 
-command:
+## command
+
 - git init
 - git add
 - git commit
