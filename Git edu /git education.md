@@ -1,5 +1,9 @@
 # git education
 
+
+[ gitignore ](http://gitignore.io/)
+
+
 command:
 - git init
 - git add
