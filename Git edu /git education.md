@@ -1,4 +1,4 @@
-git education
+# git education
 
 command:
 - git init
