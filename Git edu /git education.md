@@ -5,7 +5,7 @@
 
 ## گیت ایگنور
 [ gitignore ](https://docs.gitignore.io/)
-
+[ gitignore main ](https://www.toptal.com/developers/gitignore)
 
 ## command
 
