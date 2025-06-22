@@ -1,12 +1,13 @@
 # site list:
 
 آموزش لینوکس: ===>>>
+
 [ tecmint ](https://www.tecmint.com/)
 
 ========================================================
 
 ===>>> cheat sheet: The only cheat sheet you need Unified access to the best community driven documentation repositories of the world
-                  site: cheat.sh
+                  site:[ cheat ](cheat.sh)
 
 
 ===>>> [ centos 8.5 ](https://mirrors.cloud.tencent.com/centos/8.5.2111/isos/x86_64/)
