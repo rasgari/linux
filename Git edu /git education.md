@@ -4,8 +4,8 @@
 [ install git ](https://git-scm.com/docs/gitignore)
 
 ## گیت ایگنور
-[ gitignore ](https://docs.gitignore.io/)
-[ gitignore main ](https://www.toptal.com/developers/gitignore)
+===>>> [ gitignore ](https://docs.gitignore.io/)
+===>>> [ gitignore main ](https://www.toptal.com/developers/gitignore)
 
 ## command
 
