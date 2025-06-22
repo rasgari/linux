@@ -5,39 +5,39 @@ git branch
 ```
 
 ```bash
-- git init
+git init
 ```
 
 ```bash
-- git add
+git add
 ```
 
 ```bash
-- git commit
+git commit
 ```
 
 ```bash
-- git push
+git push
 ```
 
 ```bash
-- git status
+git status
 ```
 
 ```bash
-- git log
+git log
 ```
 
 
 ```bash
-- git pull
+git pull
 ```
 
 ```bash
-- git clone
+git clone
 ```
 
 ```bash
-- git branch
+git branch
 ```
 
