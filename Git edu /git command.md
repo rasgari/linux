@@ -53,4 +53,6 @@ git checkout
 ```bash
 git remote
 ```
-
+```bash
+git fetch
+```
