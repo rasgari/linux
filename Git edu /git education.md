@@ -32,7 +32,9 @@
 ====================================================================
 
 # Git branch
+
 Main       = master , develop ( integration )
+
 Supportive = feature , release , hotfixes
 
 - Git checkout master
