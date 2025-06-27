@@ -1,12 +1,12 @@
 # git education
 
  ## نصب گیت
-[ install git ](https://git-scm.com/docs/gitignore)
+git ===>>> [ install git ](https://git-scm.com/docs/gitignore)
 
 ## گیت ایگنور
-===>>> [ gitignore ](https://docs.gitignore.io/)
+git ignore ===>>> [ gitignore ](https://docs.gitignore.io/)
 
-===>>> [ gitignore main ](https://www.toptal.com/developers/gitignore)
+git ignore developers ===>>> [ gitignore main ](https://www.toptal.com/developers/gitignore)
 
 
 ====================================================================
