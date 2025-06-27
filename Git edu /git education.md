@@ -26,7 +26,11 @@
 - git checkout ===>>> git checkout reza = change branch
 - git config   ===>>> git config –global user.email
 - git config   ===>>> git config –global user.name
+- git merge    ===>>>
+- git flow     ===>>>
 
+- Git checkout master
+- Git checkout develop
 
 ====================================================================
 
