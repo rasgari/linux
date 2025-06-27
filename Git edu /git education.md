@@ -28,6 +28,8 @@
 - git config   ===>>> git config –global user.name
 - git merge    ===>>>
 - git flow     ===>>>
+- git diff     ===>>> git diff master..develop
+- git history
 
 ====================================================================
 
