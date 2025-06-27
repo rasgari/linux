@@ -29,8 +29,12 @@
 - git merge    ===>>>
 - git flow     ===>>>
 - git diff     ===>>> git diff master..develop
-- git history
+- git history  ===>>>
+- git reset    ===>>> git reset –hard [id commit] == all file delete
+- git reset    ===>>> git reset [id commit] == backup for project
+- git stash    ===>>>  list project half  ===>>> git stash list  &&&  git stash apply &&&  git stash pop &&&  git stash clear
 
+ 
 ====================================================================
 
 # Git branch
