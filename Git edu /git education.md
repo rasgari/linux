@@ -1,7 +1,7 @@
 # git education
 
  ## نصب گیت
-git ===>>> [ install git ](https://git-scm.com/docs/gitignore)
+git ===>>> [ install ](https://git-scm.com/docs/gitignore)
 
 ## گیت ایگنور
 git ignore ===>>> [ gitignore ](https://docs.gitignore.io/)
