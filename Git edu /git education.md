@@ -36,5 +36,6 @@
 ## Git cheat sheet : برگه تقلب گیت
 
 
-Git ===>>> version control system
-Gitlab ===>>> install 
+- Git ===>>> version control system
+
+- Gitlab ===>>> install 
