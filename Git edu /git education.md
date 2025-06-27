@@ -19,7 +19,7 @@
 - git commit   ===>>> git commit -m “massage”
 - git push     ===>>>
 - git status   ===>>> code review
-- git log      ===>>>
+- git log      ===>>> git log command
 - git pull     ===>>>
 - git clone    ===>>>
 - git branch   ===>>> git branch -d = delete
