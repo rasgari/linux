@@ -68,3 +68,9 @@ blkid
 df -h 
 free -m
 ```
+
+
+===>>>BIOS
+```bash
+sudo dmidecode -t bios
+```
