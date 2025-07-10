@@ -97,4 +97,5 @@ sudo dmidecode -t bios
 18- lstr --> tree
 19- poetry --> pipe
 20- eza --> ls
+
 ====================================
