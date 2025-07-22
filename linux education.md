@@ -38,6 +38,17 @@ sudo chmod -R admin:admin docker/
 sudo chmod -R admin:admin docker/*
 ```
 
+===>>> mount
+
+```bash
+sudo fdisk /dev/sda
+sudo pvcreate /dev/sda3
+sudo vgextend vgdocker /dev/sda3
+sudo lvdisplay
+sudo lvextend -l +100%FREE /dev/vgdocker/lvdocker
+sudo xfs_growfs /mnt/yourmountpoint
+```
+
 
 =======================================================
 
