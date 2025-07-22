@@ -75,6 +75,16 @@ free -m
 sudo dmidecode -t bios
 ```
 
+===>>>HARD ADD
+
+```bash
+lsblk
+sudo pvs
+sudo vgs
+sudo lvs
+```
+
+
 ==========================================
 
 1- bat --> cat
