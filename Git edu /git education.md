@@ -82,6 +82,8 @@ Supportive = feature , release , hotfixes
 
 🔗 لینک مشاهده ریپازیتوری
 
+[ github actions ](https://github.com/sdras/awesome-actions)
+
 
 📌 مناسب برای برنامه‌نویس‌های حرفه‌ای، تیم‌های فنی، و هرکسی که می‌خواد فرآیندهاش سریع‌تر، دقیق‌تر و خودکار پیش بره.
 
