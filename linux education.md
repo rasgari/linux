@@ -19,6 +19,11 @@ sudo firewall-cmd --list-ports
 sudo firewall-cmd --zone=public --remove-port=9200/tcp --permanent
 ```
 
+===>>> hard
+```
+nohup vmkfstools -k CentOs7.0-Kafka.vmdk  > zeroing.log 2>&1 &
+```
+
 ===>>> docker
 
 ```bash
