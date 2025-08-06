@@ -93,6 +93,9 @@ df -h
 free -m
 ```
 
+```
+ls -la
+```
 
 ===>>>BIOS
 ```bash
