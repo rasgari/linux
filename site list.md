@@ -31,3 +31,11 @@ site : [ cheat ](cheat.sh)
 https://cve.tuxcare.com/live
 
 ===================================================
+
+
+🔰 Ubuntu Command Cheat Sheet
+
+
+🌐 https://www.how2shout.com/ubuntu-linux-commands-cheat-sheet
+
+=====================================================
