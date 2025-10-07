@@ -308,5 +308,14 @@ sudo systemctl restart xinetd
 
 📌 نکته امنیتی: Telnet امن نیست چون رمز عبور رو به صورت متن ساده می‌فرسته. در محیط واقعی همیشه از SSH استفاده کن، مگر برای تست شبکه.
 
+باز کردن پورت Telnet (۲۳) در فایروال:
+```
+sudo firewall-cmd --permanent --add-service=telnet
+sudo firewall-cmd --reload
+```
+
+📛 نکته امنیتی:
+Telnet داده‌ها (از جمله پسوردها) را به صورت Plain Text می‌فرستد، پس در محیط واقعی همیشه از SSH استفاده کن.
+
 ---
 
