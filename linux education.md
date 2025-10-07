@@ -250,6 +250,31 @@ netstat -ntlp → لیست پورت‌های باز + پروسه‌های مرت
 
 ---
 
+نصب و فعال‌سازی Telnet در CentOS
+
+در CentOS معمولاً به‌صورت پیش‌فرض نصب نیست.
+
+🔹 نصب کلاینت Telnet:
+```
+sudo yum install -y telnet
+```
+🔹 برای نصب سرور Telnet (اگر بخوای دیگران به سیستم تو وصل شن):
+```
+sudo yum install -y telnet-server xinetd
+```
+
+سپس سرویس رو فعال کن:
+```
+sudo systemctl enable xinetd
+sudo systemctl start xinetd
+```
+
+فایل پیکربندی Telnet در مسیر زیره:
+```
+/etc/xinetd.d/telnet
+```
+
+
 ```
 telnet IP Address port
 ```
@@ -270,6 +295,8 @@ Escape character is '^]'.
 Trying 192.168.1.10...
 telnet: Unable to connect to remote host: Connection refused
 ```
+
+
 
 ---
 
