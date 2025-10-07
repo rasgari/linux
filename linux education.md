@@ -248,8 +248,28 @@ traceroute IP → مسیر بسته‌ها تا مقصد
 netstat -ntlp → لیست پورت‌های باز + پروسه‌های مرتبط
 ```
 
-=====================================
+---
 
 ```
 telnet IP Address port
 ```
+for example
+```
+telnet 192.168.1.10 22
+```
+اگر پورت باز باشه، پیام مشابه زیر می‌بینی:
+
+```
+Trying 192.168.1.10...
+Connected to 192.168.1.10.
+Escape character is '^]'.
+```
+
+❌ اگر پورت بسته یا فایروال مانع باشه:
+```
+Trying 192.168.1.10...
+telnet: Unable to connect to remote host: Connection refused
+```
+
+---
+
