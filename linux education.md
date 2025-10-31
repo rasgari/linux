@@ -378,3 +378,22 @@ sudo tcpdump -i eth0 -n -v
 
 ---
 
+===>>> alias list
+```
+compgen -a
+```
+
+===>>> linux command
+```
+compgen -c
+```
+
+===>>> linux command chacter
+```
+compgen -c | wc-l
+```
+
+===>>> search find
+```
+grep find
+```
