@@ -383,7 +383,7 @@ sudo tcpdump -i eth0 -n -v
 compgen -a
 ```
 
-===>>> linux command
+===>>> linux command ===>>> bind
 ```
 compgen -c
 ```
@@ -396,4 +396,51 @@ compgen -c | wc-l
 ===>>> search find
 ```
 grep find
+```
+
+
+
+
+---
+
+```
+tar xzvf name.tar
+```
+
+```
+curl -L -o http://
+```
+
+```
+systemctl restart auditd.service
+```
+
+```
+netstat -ntlp
+```
+
+```
+nmtui
+```
+
+
+```
+hostnamectl set-hostname
+```
+
+
+```
+yum update
+```
+
+```
+du -sch File/
+```
+
+
+```
+firewall-cmd --list-all
+```
+
+```
 ```
