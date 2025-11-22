@@ -479,3 +479,43 @@ compgen -d
 compgen -c | grep ssh
 ```
 
+
+---
+
+این دستور لیست سرویس‌هایی را نشان می‌دهد که کندترین زمان را در Startup سیستم داشته‌اند
+```
+systemd-analyze blame
+```
+
+```
+systemd-analyze critical-chain
+```
+🔸 نمایش پروفایل زمان کامل Boot
+
+```
+systemd-analyze time
+```
+
+سرویس‌هایی که 100٪ می‌توانی غیرفعال کنی
+```
+sudo systemctl disable --now unbound-anchor.service
+sudo systemctl disable --now kdump.service
+sudo systemctl disable --now NetworkManager-wait-online.service
+sudo systemctl disable --now tuned.service
+sudo systemctl disable --now udisks2.service
+sudo systemctl disable --now postfix.service
+sudo systemctl disable --now vdo.service
+sudo systemctl disable --now systemd-udev-settle.service
+```
+
+سرویس‌هایی که معمولاً لازم هستند و بهتر است دست نزنی:
+```
+docker.service
+containerd.service
+firewalld.service
+network.service
+sshd.service
+systemd-journald.service
+```
+
+---
