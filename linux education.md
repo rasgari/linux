@@ -518,4 +518,20 @@ sshd.service
 systemd-journald.service
 ```
 
+🌀 راهکار نهایی برای سریع‌کردن سیستم (پیشنهادی)
+1) غیرفعال کردن سرویس‌های DNSSEC، VDO, Postfix, Udisks2
+
+```
+systemctl disable --now unbound-anchor.service postfix.service \
+vdo.service udisks2.service tuned.service kdump.service
+```
+2) حذف انتظار شبکه
+```
+systemctl disable --now NetworkManager-wait-online.service
+```
+3) بررسی Boot Chain
+```
+systemd-analyze critical-chain
+```
+
 ---
