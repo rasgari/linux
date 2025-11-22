@@ -535,3 +535,11 @@ systemd-analyze critical-chain
 ```
 
 ---
+
+حجم دایرکتوری ها
+```
+ncdu
+```
+
+---
+
