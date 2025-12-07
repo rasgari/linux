@@ -565,3 +565,9 @@ who | wc -l
 ```
 users | wc -w
 ```
+
+---
+
+```
+grep root /etc/passwd
+```
