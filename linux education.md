@@ -542,4 +542,13 @@ ncdu
 ```
 
 ---
+چطور Zombie را پیدا کنیم؟
+```
+ps aux | grep Z
+```
+🧪 چطور Orphan را پیدا کنیم؟
+```
+ps -eo pid,ppid,stat,cmd | grep 1
+```
 
+Processes with PPID=1 معمولاً Orphan بوده‌اند.
